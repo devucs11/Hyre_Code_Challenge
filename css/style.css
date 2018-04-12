@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+#myButton{
+	float:left;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin-left:2%;	
+}
+
+#target{
+	float:left;
+   background-color:green;
+   color:#FFF;
+   margin-left:2%;	
+}
+
+#error{
+   float:left;
+   background-color:red;
+   color:#FFF;
+   margin-left:2%;	
+   
+}
+input[type=number] {
+	
+	float:left;
+    width: 30%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
